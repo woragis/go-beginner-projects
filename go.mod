@@ -1,3 +1,3 @@
-module github.com/woragis/go-cli-games
+module cli_games
 
 go 1.23.3
